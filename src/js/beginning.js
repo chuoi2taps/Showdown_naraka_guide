@@ -10,16 +10,12 @@ export function showBeginning() {
        <li>
          <h1 class="font-bold uppercase my-2">Làm sao để pro?</h1>
          <ul class="list-disc">
-           <li>Việc học Mech boss và chơi nhiều để quen đòn sẽ khiến bạn mau pro hơn, khuyến khích nên đi solo tầng
-             1-25
-             để làm quen với các trùm trong tháp, không cần quá vội vàng dùng sen, hãy chơi lại nhiều lần để tay mau
-             to
-             lên. Và nếu cuối mùa mà farm không nổi thì cứ nhắn lên nhóm mọi người sẽ hỗ trợ bạn lên tầng 40 để có đủ
-             quà.
+           <li>Việc học các bộ movesets quái, <span class="uppercase font-bold text-red-700">boss</span> và chơi nhiều sẽ quen đòn giúp bạn cải thiện kĩ năng hơn, khuyến khích nên đi solo các tầng <span class="uppercase font-bold text-red-700">Thập Điện Môn</span> 1-25 để làm quen với các <span class="uppercase font-bold text-red-700">boss</span> trong tháp, không cần quá vội vàng dùng sen, hãy chơi lại nhiều lần để thuộc kĩ năng hơn. Và nếu cuối mùa mà farm không nổi thì cứ nhắn lên nhóm mọi người sẽ hỗ trợ bạn lên tầng 40 để có đủ quà XD.
            </li>
            <li>
              MỘT ĐIỀU QUAN TRỌNG NỮA LÀ HÃY NGHE MỌI NGƯỜI CALL NẾU BẠN LÀ NGƯỜI ĐƯỢC KÉO. ĐỪNG ĐÁNH THEO CẢM TỈNH VÌ
              ĐIỀU ĐÓ SẼ LÀM CẢN TRỞ NGƯỜI KÉO RẤT NHIỀU DẪN ĐẾN TRẢI NGHIỆM GAME KHÔNG TỐT.
+             (Tag vào discord nếu bạn muốn bổ sung thêm thông tin).
            </li>
          </ul>
        </li>
